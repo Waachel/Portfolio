@@ -14,14 +14,14 @@ I believe the best games come from understanding both the technical architecture
 - **Continuous Learning**: Always exploring new technologies and game development techniques
 
 ### 💫 What You'll Find Here
-This portfolio showcases my journey through game development, featuring:
+This portfolio showcases my journey through game development, featuring:\
 
-🎨 Custom Graphics & Game Engines
-🔊 Real-time Audio Systems
-🌐 Networked Multiplayer Games
-🤖 AI-Driven Gaming Experiences
-🏭 Complete Game Projects (like C.L.E.A.R. F.A.C.T.O.R.Y.)
-📊 Enterprise Development Tools
+🎨 Custom Graphics & Game Engines\
+🔊 Real-time Audio Systems\
+🌐 Networked Multiplayer Games\
+🤖 AI-Driven Gaming Experiences\
+🏭 Complete Game Projects\
+📊 Enterprise Development Tools\
 
 Each project reflects my commitment to clean code, optimal performance, and engaging user experiences.
 
