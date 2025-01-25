@@ -13,7 +13,7 @@ I believe the best games come from understanding both the technical architecture
 - **Problem-Solving Mindset**: Turning complex technical challenges into elegant solutions
 - **Continuous Learning**: Always exploring new technologies and game development techniques
 
-### 🎲 What You'll Find Here
+### :dizzy: What You'll Find Here
 This portfolio showcases my journey through game development, featuring projects that range from low-level graphics programming to complete game implementations. Each project reflects my commitment to clean code, optimal performance, and engaging user experiences.
 
 ---
